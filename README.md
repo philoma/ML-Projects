@@ -18,4 +18,4 @@ Kernel is simply a function which satisfies following three properties as mentio
    ![image](https://github.com/philoma/ML-Projects-Notebooks/assets/87674698/4e66c121-26e6-4d0e-a9bb-88dda9ca2e4b)
 3. The value of kernel function, which is the density, can not be negative, K(u) ≥ 0 for all −∞ < u < ∞.
 
-   <a href='https://medium.com/analytics-vidhya/kernel-density-estimation-kernel-construction-and-bandwidth-optimization-using-maximum-b1dfce127073#:~:text=Kernel%20functions%20are%20used%20to,that%20it%20must%20be%20symmetrical.> Ref. </a>
+   <a href='https://medium.com/analytics-vidhya/kernel-density-estimation-kernel-construction-and-bandwidth-optimization-using-maximum-b1dfce127073#:~:text=Kernel%20functions%20are%20used%20to,that%20it%20must%20be%20symmetrical.'>  Ref. </a>
